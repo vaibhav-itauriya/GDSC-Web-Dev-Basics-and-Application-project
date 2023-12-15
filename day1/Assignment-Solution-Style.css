@@ -18,7 +18,7 @@
     background-color: rgb(8, 138, 252);
 }
 
-.head{
+.head {
     margin: 10px 5px;
     background-color: rgb(231, 87, 147);
     color: #180660;
@@ -26,7 +26,7 @@
     text-decoration-color: rgb(81, 81, 138);
 }
 
-p .headsub{
+p .headsub {
     margin: 7px;
     background-color: #e5cb57;
     color: #0413bc;
@@ -34,17 +34,18 @@ p .headsub{
 }
 
 
-h2{
+h2 {
     text-align: center;
     margin: 10px 5px;
-    background-color: bisque;
-    color: #299014;
+    background-color: #c43153;
+    color: #83e570;
     text-decoration: underline;
-    text-decoration-color: rgb(81, 81, 138);
+    text-decoration-color: rgb(166, 212, 216);
 }
-.para{
+
+.para {
     margin: 7px;
-    background-color: #87c9a2;
+    background-color: #dceba7;
     color: #040e87;
     font-family: "Baloo Bhai 2", sans-serif;
 }
@@ -56,30 +57,37 @@ h2{
     border: 2px solid #3544ee;
     background-color: #9effdb;
 }
+
 .element {
     margin: 10px;
+}
+
+.imagegallery {
+    background-color: #faebd7;
 }
 
 .image-row {
     display: flex;
     justify-content: space-around;
     margin-bottom: 20px;
-  }
-  .image {
+}
+
+.image {
     text-align: center;
-  }
-  
-  .image img {
-    width: 200px;
-    height: auto;
+}
+
+.image img {
+    width: 19.5vw;
+    height: 25vh;
     display: block;
-    margin-bottom: 10px;
-  }
-  
-  .caption {
+    margin-bottom: 2px;
+}
+
+.caption {
     font-size: 14px;
     color: #666;
-  }
+    background-color: #e5cb57;
+}
 
 
 .table {
@@ -87,12 +95,14 @@ h2{
     margin: 15px auto;
     padding: 2px;
 }
-.title{
+
+.title {
     text-align: center;
-    font-weight:1000;
+    font-weight: 1000;
     font-size: large;
     text-decoration: underline;
 }
+
 th {
     width: 13vw;
     text-align: center;
@@ -101,30 +111,33 @@ th {
     background-color: black;
     padding: 15px;
 }
+
 td {
     width: 14vw;
     text-align: center;
     border: 1px solid #333;
     padding: 20px;
 }
-.even_row{
+
+.even_row {
     background-color: #65737e;
     color: white;
 }
-.odd_row{
+
+.odd_row {
     background-color: antiquewhite;
 }
 
-.note{
+.note {
     background-color: aquamarine;
     text-align: center;
     text-decoration: underline;
     margin: 0 5px;
 }
-.saturday{
-    list-style-position: inside ;
+
+.saturday {
+    list-style-position: inside;
     background-color: bisque;
     margin: 0px 5px;
     margin-bottom: 15px;
 }
-
