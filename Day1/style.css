@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Modak&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    color: rgb(120, 233, 89);
+    font-size: 50px;
+    font-weight: 500;
+    font-family: 'Modak', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #e4a0a0;
+    margin-bottom: 20px;
+    background-color: rgb(8, 138, 252);
+}
+
+.head {
+    margin: 10px 5px;
+    background-color: rgb(231, 87, 147);
+    color: #180660;
+    text-decoration: underline;
+    text-decoration-color: rgb(81, 81, 138);
+}
+
+p .headsub {
+    margin: 7px;
+    background-color: #e5cb57;
+    color: #0413bc;
+    font-family: "Baloo Bhai 2", sans-serif;
+}
+
+
+h2 {
+    text-align: center;
+    margin: 10px 5px;
+    background-color: #c43153;
+    color: #83e570;
+    text-decoration: underline;
+    text-decoration-color: rgb(166, 212, 216);
+}
+
+.para {
+    margin: 7px;
+    background-color: #dceba7;
+    color: #040e87;
+    font-family: "Baloo Bhai 2", sans-serif;
+}
+
+
+.form {
+    margin: 20px 10px;
+    padding: 10px;
+    border: 2px solid #3544ee;
+    background-color: #9effdb;
+}
+
+.element {
+    margin: 10px;
+}
+
+.imagegallery {
+    background-color: #faebd7;
+}
+
+.image-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width: 19.5vw;
+    height: 25vh;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.caption {
+    font-size: 14px;
+    color: #666;
+    background-color: #e5cb57;
+}
+
+
+.table {
+    border: 2px solid;
+    margin: 15px auto;
+    padding: 2px;
+}
+
+.title {
+    text-align: center;
+    font-weight: 1000;
+    font-size: large;
+    text-decoration: underline;
+}
+
+th {
+    width: 13vw;
+    text-align: center;
+    border: 1px solid #333;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+td {
+    width: 14vw;
+    text-align: center;
+    border: 1px solid #333;
+    padding: 20px;
+}
+
+.even_row {
+    background-color: #65737e;
+    color: white;
+}
+
+.odd_row {
+    background-color: antiquewhite;
+}
+
+.note {
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: underline;
+    margin: 0 5px;
+}
+
+.saturday {
+    list-style-position: inside;
+    background-color: bisque;
+    margin: 0px 5px;
+    margin-bottom: 15px;
+}
