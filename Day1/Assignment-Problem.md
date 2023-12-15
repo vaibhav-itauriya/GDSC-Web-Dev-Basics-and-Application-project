@@ -1,7 +1,7 @@
 TASK LIST- (Don’t use ChatGPT at the beginning of your journey, at least have the basic knowledge right)
 
 1. Install VSCode in your laptop with all the given extensions (If you want you can also set up any other editor preferred by you if you are comfortable with it
-2. Make a basic HTML website with the following:-
+2. Make a basic HTML website with the following:-<br>
    4 Sections:<br>
       a.1st section- Introduction about your website and yourself<br>
       b. 2nd section- A Simple form asking for at least 5 fields and a Submit button<br>
